@@ -1,4 +1,5 @@
 This is a calc calculator, it solves for integration, derivatives, limits.
+
 To clone this project simply
 ```
 $ git clone https://github.com/tiopi/calcosita.git
