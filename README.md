@@ -1,4 +1,4 @@
-This is a calc calculator, it solves for integration, derivatives, limits.
+This is an advanced calculator, it solves for integration, derivatives, limits.
 
 To clone this project simply
 ```
@@ -19,5 +19,6 @@ $ git checkout -b "Name of Branch"
 Commit and push the branch if it works well. Once it is fully tested pull/push the branch into the master branch.
 
 
-This is a project made by Haerunnisa Dewindita and Osmar Coronel
+This is a project made by Haerunnisa Dewindita and Osmar Coronel.
+
 
