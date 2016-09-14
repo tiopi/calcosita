@@ -64,4 +64,3 @@ class Derive(object):
 x = Derive("x^2y^2")
 print(Derive.d2(x))
 
-
