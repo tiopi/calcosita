@@ -38,15 +38,6 @@ class Derive(object):
         ystr = "(" + Y.getstr() + ")"
         return Derive.cleanup(self, X.d1("x")) + ystr + " + " + xstr + "(" + Derive.cleanup(self, Y.d1("y")) + ")"
 
-    # methods or constants or regex ?? i.p
-    def dsin(self):
-        return "cos(x)"
-
-    def dcos(self):
-        return "-sin(x)"
-
-    def dtan(self):
-        return "sec^2(x)"
 
     def cleanup(self, s):
         if "^1" in s:  # clean up function format
